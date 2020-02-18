@@ -1,3 +1,6 @@
+/*
+ * author: Pradnya
+ */
 package jdbcGUI.com;
 
 public class Customer {
